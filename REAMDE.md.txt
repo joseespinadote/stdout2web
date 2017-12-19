@@ -1,3 +1,0 @@
-Proyecto para mis alumnos de INACAP
-
-Captura la salida stdout de un ejecutable y la muestra en un Label de C#
